@@ -36,7 +36,7 @@ A GUI application for current-voltage (JV) characterization of solar cells using
    Connect Arduino with relay board
    Configure solar simulator trigger (if used)
 
-Usage
+## Usage
 
 1. Connection Setup:
    Select Arduino COM port and click "Connect"
@@ -53,7 +53,7 @@ Usage
    Start/Stop measurements using dedicated buttons
    Export results to CSV when complete
 
-Notes
+## Notes
 Requires proper GPIB address configuration for Keithley
 Arduino relay control code must be loaded separately
 Dark measurements disable solar simulator trigger
