@@ -53,7 +53,7 @@ A GUI application for current-voltage (JV) characterization of solar cells using
    Start/Stop measurements using dedicated buttons
    Export results to CSV when complete
 
-## Notes
+### Notes
 
     Requires proper GPIB address configuration for Keithley
     Arduino relay control code must be loaded separately
