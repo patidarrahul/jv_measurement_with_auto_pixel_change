@@ -54,7 +54,8 @@ A GUI application for current-voltage (JV) characterization of solar cells using
    Export results to CSV when complete
 
 ## Notes
-Requires proper GPIB address configuration for Keithley
-Arduino relay control code must be loaded separately
-Dark measurements disable solar simulator trigger
-Supports both forward and reverse J-V scans
+
+    Requires proper GPIB address configuration for Keithley
+    Arduino relay control code must be loaded separately
+    Dark measurements disable solar simulator trigger
+    Supports both forward and reverse J-V scans
